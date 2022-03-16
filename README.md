@@ -50,6 +50,7 @@ For this function, I use for-loop to append more product info in the original fu
 
 ### Function to get information from all products for one main category 
 ![image](https://user-images.githubusercontent.com/97778235/158598276-1ebba36b-ea37-408b-8e8a-deac22e020c0.png)
+
 For full function, you can check at the Final file as following link: https://github.com/hh7sag/tiki-scrapping/blob/main/%5BProject%5DTiki_WebScraper_Huong_Huynh_Final.ipynb
 
 ### Function to start scrapping all information
@@ -63,5 +64,6 @@ After scrapping the needed data, I create a dataframe which converts into a csv 
 ![image](https://user-images.githubusercontent.com/97778235/158599060-4cb6d5d2-577f-46da-9662-2e45301564c5.png)
 
 So, there you have it, a full dataframe of all Tiki products in just a page, which helps me choose the product much faster.
+
 For more information, you can check at my Google Colab link: https://colab.research.google.com/drive/18GSwNTrxfJrwMec73FSorJZY5yzJUbQ7?usp=sharing
 
