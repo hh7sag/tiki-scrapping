@@ -12,4 +12,7 @@ Tiki has 3 subsidiaries including Tiki Corporation, Tiki Smart Logistics and Tik
 When I buy things at any ecommerce platform such as Tiki, I have to scroll page by page and click any product and check the name, price, image, thumbnail, ratings and so on. The fact that you have to scroll page by page is time-consuming. So I am thinking how about scrapping product information all at once and size them up as a Excel file (.csv) file to check the information easier. 
 
 ## **Methodology**
+
+![image](https://user-images.githubusercontent.com/97778235/158594777-bdf59b41-da5e-42c1-a3a3-73a4f9596cb3.png)
+
 ## **Result**
