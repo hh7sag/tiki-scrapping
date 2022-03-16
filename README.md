@@ -4,7 +4,8 @@ Tiki scrapping is a project which I use Selenium Web Driver to extract all infor
 Table of Contents
 1. **Overview**
 Tiki is considered as one of the top 4 ecommerce platforms with high number of customers in Vietnam, along with Shopee, Lazada and Sendo. Founded in 2010, Tiki has always strived to improve product quality as well as service with a view to optimizing customer experience while shopping with fast delivery in 2 hours.
-Tiki has 3 subsidiaries including
+Tiki has 3 subsidiaries including Tiki Corporation, Tiki Smart Logistics and Tiki Trading which all support Tiki operations to support customers from product segmentation to final delivery and post-purchase activities from customers
+
 3. **Problem Statement**
 4. **Methodology**
 5. **Result**
